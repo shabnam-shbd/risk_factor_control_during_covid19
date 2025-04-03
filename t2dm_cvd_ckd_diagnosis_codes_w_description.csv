@@ -1,0 +1,993 @@
+cohort,var,var1,source,code,description
+ckd,CKD,ckd,cprd_cref,12479,Chronic kidney disease stage 4
+ckd,CKD,ckd,cprd_cref,12566,Chronic kidney disease stage 3
+ckd,CKD,ckd,cprd_cref,12585,Chronic kidney disease stage 5
+ckd,CKD,ckd,cprd_cref,94793,Chronic kidney disease stage 3 with proteinuria
+ckd,CKD,ckd,cprd_cref,94965,Chronic kidney disease stage 3A
+ckd,CKD,ckd,cprd_cref,95122,Chronic kidney disease stage 4 with proteinuria
+ckd,CKD,ckd,cprd_cref,95123,Chronic kidney disease stage 3 without proteinuria
+ckd,CKD,ckd,cprd_cref,95175,Chronic kidney disease stage 3A without proteinuria
+ckd,CKD,ckd,cprd_cref,95177,Chronic kidney disease stage 3B without proteinuria
+ckd,CKD,ckd,cprd_cref,95178,Chronic kidney disease stage 3B with proteinuria
+ckd,CKD,ckd,cprd_cref,95179,Chronic kidney disease stage 3B
+ckd,CKD,ckd,cprd_cref,95405,Chronic kidney disease stage 5 without proteinuria
+ckd,CKD,ckd,cprd_cref,95406,Chronic kidney disease stage 4 without proteinuria
+ckd,CKD,ckd,cprd_cref,95408,Chronic kidney disease stage 3A with proteinuria
+ckd,CKD,ckd,cprd_cref,95508,Chronic kidney disease stage 5 with proteinuria
+ckd,CKD,ckd,hes_apc,N18.3,"Chronic kidney disease, stage 3"
+ckd,CKD,ckd,hes_apc,N18.4,"Chronic kidney disease, stage 4"
+ckd,CKD,ckd,hes_apc,N18.5,"Chronic kidney disease, stage 5"
+ckd,CKD,ckd,hes_apc,N18.6,End stage renal disease
+cvd,Aortic Disease,ad,cprd_cref,100195,Endovascular stenting for aortic aneurysm of bifurcation NEC
+cvd,Aortic Disease,ad,cprd_cref,101379,Infrarenal abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,102719,"[X]Aortic aneurysm of unspecified site, nonruptured"
+cvd,Aortic Disease,ad,cprd_cref,102725,"[X]Aortic aneurysm of unspecified site, ruptured"
+cvd,Aortic Disease,ad,cprd_cref,104467,Abdominal aortic aneurysm screen ultrasound scan abnormal
+cvd,Aortic Disease,ad,cprd_cref,105857,Prov of info about abdo aortic aneurysm screening programme
+cvd,Aortic Disease,ad,cprd_cref,106780,Endovascular insertion stent for suprarenal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,11430,"Thoracoabdominal aortic aneurysm, ruptured"
+cvd,Aortic Disease,ad,cprd_cref,13572,Ruptured abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,15304,Ruptured aortic aneurysm NOS
+cvd,Aortic Disease,ad,cprd_cref,16034,Aortic aneurysm without mention of rupture NOS
+cvd,Aortic Disease,ad,cprd_cref,16521,Dissecting aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,16800,Ruptured thoracic aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,16993,H/O: aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,17220,Emergency repair of aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,17345,AAA - Abdominal aortic aneurysm without mention of rupture
+cvd,Aortic Disease,ad,cprd_cref,1735,Aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,1736,Aortic aneurysm repair
+cvd,Aortic Disease,ad,cprd_cref,17767,Abdominal aortic aneurysm which has ruptured
+cvd,Aortic Disease,ad,cprd_cref,1867,Abdominal aortic aneurysm without mention of rupture
+cvd,Aortic Disease,ad,cprd_cref,23532,Thoracic aortic aneurysm without mention of rupture
+cvd,Aortic Disease,ad,cprd_cref,26232,Tube graft of Abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,26639,FH: Aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,27563,Thoracic aortic aneurysm which has ruptured
+cvd,Aortic Disease,ad,cprd_cref,28109,Inflammatory abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,40787,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+cvd,Aortic Disease,ad,cprd_cref,45521,Juxtarenal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,51061,Endovascular stenting of thoracic aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,51166,Y graft abdominal Aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,62061,Syphilitic aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,63408,Tube graft abdominal Aortic aneurysm (emergency)
+cvd,Aortic Disease,ad,cprd_cref,63920,Ruptured suprarenal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,6872,Aortic aneurysm NOS
+cvd,Aortic Disease,ad,cprd_cref,70260,Aortic aneurysm - syphilitic
+cvd,Aortic Disease,ad,cprd_cref,70446,Endovascular stenting infrarenal abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,83577,Endovas ins stent graft for infrarenal abdom aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,91462,Endov insertion of stent graft for thoracic aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,92925,Y graft of abdominal Aortic aneurysm (emergency)
+cvd,Aortic Disease,ad,cprd_cref,94682,Endovas insert of stent graft for suprarenal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,97030,Endovascular stenting of suprarenal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,97217,Endovascul insert stent infrarenal abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,9759,Leaking abdominal aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,98542,Endovascular insertion of stent for thoracic aortic aneurysm
+cvd,Aortic Disease,ad,cprd_cref,99859,Endovas insert stent for aortic aneurysm of bifurcation NEC
+cvd,Aortic Disease,ad,hes_apc,I71.3,"Abdominal aortic aneurysm, ruptured"
+cvd,Aortic Disease,ad,hes_apc,I71.4,"Abdominal aortic aneurysm, without mention of rupture"
+cvd,Aortic Disease,ad,hes_apc,I71.5,"Thoracoabdominal aortic aneurysm, ruptured"
+cvd,Aortic Disease,ad,hes_apc,I71.6,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+cvd,Aortic Disease,ad,hes_apc,I71.8,"Aortic aneurysm of unspecified site, ruptured"
+cvd,Aortic Disease,ad,hes_apc,I71.9,"Aortic aneurysm of unspecified site, without mention of rupture"
+cvd,Coronary Heart Disease,chd,cprd_cref,100139,History of myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,10562,Acute non-ST segment elevation myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,11048,Variant angina pectoris
+cvd,Coronary Heart Disease,chd,cprd_cref,11983,Acute coronary syndrome
+cvd,Coronary Heart Disease,chd,cprd_cref,1204,Heart attack
+cvd,Coronary Heart Disease,chd,cprd_cref,12139,Acute anterolateral infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,12229,Acute ST segment elevation myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,12804,Stable angina
+cvd,Coronary Heart Disease,chd,cprd_cref,12986,Prinzmetal's angina
+cvd,Coronary Heart Disease,chd,cprd_cref,13185,Angina control
+cvd,Coronary Heart Disease,chd,cprd_cref,13566,Attack - heart
+cvd,Coronary Heart Disease,chd,cprd_cref,13571,Thrombosis - coronary
+cvd,Coronary Heart Disease,chd,cprd_cref,1414,Angina on effort
+cvd,Coronary Heart Disease,chd,cprd_cref,1430,Angina pectoris
+cvd,Coronary Heart Disease,chd,cprd_cref,1431,Unstable angina
+cvd,Coronary Heart Disease,chd,cprd_cref,14658,Acute myocardial infarction NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,14782,Angina control - improving
+cvd,Coronary Heart Disease,chd,cprd_cref,14897,Anterior myocardial infarction NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,14898,Lateral myocardial infarction NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,15349,Angina control NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,15373,Angina control - poor
+cvd,Coronary Heart Disease,chd,cprd_cref,15661,Dressler's syndrome
+cvd,Coronary Heart Disease,chd,cprd_cref,16408,Healed myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,1677,MI - acute myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,1678,Inferior myocardial infarction NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,17307,Angina at rest
+cvd,Coronary Heart Disease,chd,cprd_cref,17464,Personal history of myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,17689,Silent myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,17872,Acute anteroseptal infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,18118,Worsening angina
+cvd,Coronary Heart Disease,chd,cprd_cref,18125,Nocturnal angina
+cvd,Coronary Heart Disease,chd,cprd_cref,18842,Subsequent myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,19542,Angina control - good
+cvd,Coronary Heart Disease,chd,cprd_cref,19655,Angina at rest
+cvd,Coronary Heart Disease,chd,cprd_cref,20095,Angina decubitus
+cvd,Coronary Heart Disease,chd,cprd_cref,23579,Postmyocardial infarction syndrome
+cvd,Coronary Heart Disease,chd,cprd_cref,23708,Atrial septal defect/curr comp folow acut myocardal infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,23892,Posterior myocardial infarction NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,241,Acute myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,24126,Haemopericardium/current comp folow acut myocard infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,24540,Chronic coronary insufficiency
+cvd,Coronary Heart Disease,chd,cprd_cref,2491,Coronary thrombosis
+cvd,Coronary Heart Disease,chd,cprd_cref,25842,Angina pectoris NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,26863,New onset angina
+cvd,Coronary Heart Disease,chd,cprd_cref,26966,ECG: S-T elevation
+cvd,Coronary Heart Disease,chd,cprd_cref,26972,ECG:posterior/inferior infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,26975,ECG: antero-septal infarct.
+cvd,Coronary Heart Disease,chd,cprd_cref,28554,Angina pectoris NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,28736,Acute atrial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,29300,Angina control - worsening
+cvd,Coronary Heart Disease,chd,cprd_cref,29553,"Thrombosis atrium,auric append&vent/curr comp foll acute MI"
+cvd,Coronary Heart Disease,chd,cprd_cref,29643,Acute inferoposterior infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,29758,Acute transmural myocardial infarction of unspecif site
+cvd,Coronary Heart Disease,chd,cprd_cref,29902,Angina decubitus NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,30330,Acute Q-wave infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,30421,Cardiac rupture following myocardial infarction (MI)
+cvd,Coronary Heart Disease,chd,cprd_cref,32272,Postoperative myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,32854,Acute posterolateral myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,33650,Percut transluminal coronary thrombolysis with streptokinase
+cvd,Coronary Heart Disease,chd,cprd_cref,34328,Refractory angina
+cvd,Coronary Heart Disease,chd,cprd_cref,34803,Other acute myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,34952,ECG: Q wave
+cvd,Coronary Heart Disease,chd,cprd_cref,35674,H/O: myocardial infarct <60
+cvd,Coronary Heart Disease,chd,cprd_cref,36423,Certain current complication follow acute myocardial infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,36523,Preinfarction syndrome
+cvd,Coronary Heart Disease,chd,cprd_cref,3704,Acute subendocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,37657,Ventric septal defect/curr comp fol acut myocardal infarctn
+cvd,Coronary Heart Disease,chd,cprd_cref,38609,Subsequent myocardial infarction of inferior wall
+cvd,Coronary Heart Disease,chd,cprd_cref,39449,Coronary thrombosis not resulting in myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,39546,[X]Other forms of angina pectoris
+cvd,Coronary Heart Disease,chd,cprd_cref,39655,Impending infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,39904,ECG: old myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,4017,Old myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,40399,H/O: myocardial infarct >60
+cvd,Coronary Heart Disease,chd,cprd_cref,40429,Acute anteroapical infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,40996,Percut translum coronary thrombolytic therapy- streptokinase
+cvd,Coronary Heart Disease,chd,cprd_cref,41221,Acute septal infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,41835,Postoperative subendocardial myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,45809,Subsequent myocardial infarction of anterior wall
+cvd,Coronary Heart Disease,chd,cprd_cref,45960,Antianginal therapy
+cvd,Coronary Heart Disease,chd,cprd_cref,46017,Other acute myocardial infarction NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,46112,Postoperative transmural myocardial infarction anterior wall
+cvd,Coronary Heart Disease,chd,cprd_cref,46166,Subsequent myocardial infarction of unspecified site
+cvd,Coronary Heart Disease,chd,cprd_cref,46227,ECG: Q wave abnormal
+cvd,Coronary Heart Disease,chd,cprd_cref,46276,Postoperative transmural myocardial infarction inferior wall
+cvd,Coronary Heart Disease,chd,cprd_cref,4656,Crescendo angina
+cvd,Coronary Heart Disease,chd,cprd_cref,50372,H/O: Myocardial infarction in last year
+cvd,Coronary Heart Disease,chd,cprd_cref,5221,Cardiac enzymes abnormal
+cvd,Coronary Heart Disease,chd,cprd_cref,52705,ECG: lateral infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,5387,Other specified anterior myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,54251,Preinfarction syndrome NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,54535,Stenocardia
+cvd,Coronary Heart Disease,chd,cprd_cref,55137,MI - myocardial infarction aborted
+cvd,Coronary Heart Disease,chd,cprd_cref,55401,ECG: subendocardial infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,57062,H/O: Angina in last year
+cvd,Coronary Heart Disease,chd,cprd_cref,59032,ECG: myocardial infarct NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,59189,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+cvd,Coronary Heart Disease,chd,cprd_cref,59940,Ruptur chordae tendinae/curr comp fol acute myocard infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,60664,Cardiac enzymes abnormal - first set
+cvd,Coronary Heart Disease,chd,cprd_cref,61072,Myocardial infarction aborted
+cvd,Coronary Heart Disease,chd,cprd_cref,61670,Diab mellit insulin-glucose infus acute myocardial infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,62270,ECG: Q wave pathological
+cvd,Coronary Heart Disease,chd,cprd_cref,62626,Acute papillary muscle infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,6336,H/O: angina pectoris
+cvd,Coronary Heart Disease,chd,cprd_cref,63467,True posterior myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,66285,ECG: Q wave NOS
+cvd,Coronary Heart Disease,chd,cprd_cref,66388,Status anginosus
+cvd,Coronary Heart Disease,chd,cprd_cref,68357,Microinfarction of heart
+cvd,Coronary Heart Disease,chd,cprd_cref,68748,"Postoperative myocardial infarction, unspecified"
+cvd,Coronary Heart Disease,chd,cprd_cref,69474,Rupture papillary muscle/curr comp fol acute myocard infarct
+cvd,Coronary Heart Disease,chd,cprd_cref,72562,Subsequent myocardial infarction of other sites
+cvd,Coronary Heart Disease,chd,cprd_cref,7347,Unstable angina
+cvd,Coronary Heart Disease,chd,cprd_cref,7696,Syncope anginosa
+cvd,Coronary Heart Disease,chd,cprd_cref,7783,ECG: myocardial infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,8935,Acute inferolateral infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,9276,Acute coronary insufficiency
+cvd,Coronary Heart Disease,chd,cprd_cref,9507,Acute non-Q wave infarction
+cvd,Coronary Heart Disease,chd,cprd_cref,9555,Post infarct angina
+cvd,Coronary Heart Disease,chd,cprd_cref,96838,[X]Acute transmural myocardial infarction of unspecif site
+cvd,Coronary Heart Disease,chd,cprd_cref,97001,Cardiac troponin positive
+cvd,Coronary Heart Disease,chd,cprd_cref,99991,[X]Subsequent myocardial infarction of unspecified site
+cvd,Coronary Heart Disease,chd,hes_apc,I20,Angina pectoris
+cvd,Coronary Heart Disease,chd,hes_apc,I21,Acute myocardial infarction
+cvd,Coronary Heart Disease,chd,hes_apc,I22,Subsequent myocardial infarction
+cvd,Coronary Heart Disease,chd,hes_apc,I23,Certain current complications following acute myocardial infarction
+cvd,Coronary Heart Disease,chd,hes_apc,I24,Other acute ischaemic heart diseases
+cvd,Coronary Heart Disease,chd,hes_apc,I25,Chronic ischaemic heart disease
+cvd,Peripheral Artery Disease,pad,cprd_cref,105317,Peripheral arterial disease
+cvd,Peripheral Artery Disease,pad,cprd_cref,106224,Peripheral vascular disease monitoring invitation
+cvd,Peripheral Artery Disease,pad,cprd_cref,106260,Peripheral vascular disease monitoring first letter
+cvd,Peripheral Artery Disease,pad,cprd_cref,106660,Peripheral vascular disease monitoring second letter
+cvd,Peripheral Artery Disease,pad,cprd_cref,106855,Peripheral vascular disease monitoring third letter
+cvd,Peripheral Artery Disease,pad,cprd_cref,16148,Peripheral vascular complications of care
+cvd,Peripheral Artery Disease,pad,cprd_cref,18499,Peripheral vascular disease monitoring
+cvd,Peripheral Artery Disease,pad,cprd_cref,23871,Peripheral angiopathic disease EC NOS
+cvd,Peripheral Artery Disease,pad,cprd_cref,2760,Peripheral vascular disease NOS
+cvd,Peripheral Artery Disease,pad,cprd_cref,3530,Peripheral vascular disease NOS
+cvd,Peripheral Artery Disease,pad,cprd_cref,44528,Peripheral vascular complications of care NOS
+cvd,Peripheral Artery Disease,pad,cprd_cref,5702,Peripheral ischaemic vascular disease
+cvd,Peripheral Artery Disease,pad,cprd_cref,6827,Peripheral ischaemia
+cvd,Peripheral Artery Disease,pad,cprd_cref,6853,Claudication
+cvd,Peripheral Artery Disease,pad,hes_apc,I70.1,Atherosclerosis of renal artery
+cvd,Peripheral Artery Disease,pad,hes_apc,I70.2,Atherosclerosis of arteries of extremities
+cvd,Peripheral Artery Disease,pad,hes_apc,I70.8,Atherosclerosis of other arteries
+cvd,Peripheral Artery Disease,pad,hes_apc,I70.9,Generalized and unspecified atherosclerosis
+cvd,Peripheral Artery Disease,pad,hes_apc,I73.1,Thromboangiitis obliterans [Buerger]
+cvd,Peripheral Artery Disease,pad,hes_apc,I73.8,Other specified peripheral vascular diseases
+cvd,Peripheral Artery Disease,pad,hes_apc,I73.9,"Peripheral vascular disease, unspecified"
+cvd,Peripheral Artery Disease,pad,hes_apc,I74.2,Embolism and thrombosis of arteries of upper extremities
+cvd,Peripheral Artery Disease,pad,hes_apc,I74.3,Embolism and thrombosis of arteries of lower extremities
+cvd,Peripheral Artery Disease,pad,hes_apc,I74.4,"Embolism and thrombosis of arteries of extremities, unspecified"
+cvd,Peripheral Artery Disease,pad,hes_apc,I74.5,Embolism and thrombosis of Iliac artery
+cvd,Peripheral Artery Disease,pad,hes_apc,I74.8,Embolism and thrombosis of other arteries
+cvd,Peripheral Artery Disease,pad,hes_apc,I74.9,Embolism and thrombosis of unspecified artery
+cvd,Peripheral Artery Disease,pad,hes_apc,I79.2,Peripheral angiopathy in diseases classified elsewhere
+cvd,Peripheral Artery Disease,pad,hes_apc,I79.8,"Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+cvd,Stroke,stroke,cprd_cref,10062,Cerebrovascular disease NOS
+cvd,Stroke,stroke,cprd_cref,100639,Central post-stroke pain
+cvd,Stroke,stroke,cprd_cref,10504,Right sided cerebral infarction
+cvd,Stroke,stroke,cprd_cref,105738,Carotid territory transient ischaemic attack
+cvd,Stroke,stroke,cprd_cref,107440,Lobar cerebral haemorrhage
+cvd,Stroke,stroke,cprd_cref,108630,"[X]Subarachnoid haemorrh from intracranial artery, unspecif"
+cvd,Stroke,stroke,cprd_cref,108668,[X]Subarachnoid haemorrhage from other intracranial arteries
+cvd,Stroke,stroke,cprd_cref,110337,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+cvd,Stroke,stroke,cprd_cref,111096,[X]Other specified cerebrovascular diseases
+cvd,Stroke,stroke,cprd_cref,12833,Right sided CVA
+cvd,Stroke,stroke,cprd_cref,1298,CVA unspecified
+cvd,Stroke,stroke,cprd_cref,13564,Cerebellar haemorrhage
+cvd,Stroke,stroke,cprd_cref,13577,Other cerebrovascular disease
+cvd,Stroke,stroke,cprd_cref,13707,Stroke / transient ischaemic attack referral
+cvd,Stroke,stroke,cprd_cref,1433,Transient ischaemic attack
+cvd,Stroke,stroke,cprd_cref,1469,Stroke and cerebrovascular accident unspecified
+cvd,Stroke,stroke,cprd_cref,15019,Cerebral embolism
+cvd,Stroke,stroke,cprd_cref,15252,Brainstem infarction NOS
+cvd,Stroke,stroke,cprd_cref,15788,Transient cerebral ischaemia NOS
+cvd,Stroke,stroke,cprd_cref,16517,Cerebral thrombosis
+cvd,Stroke,stroke,cprd_cref,17322,Cerebellar stroke syndrome
+cvd,Stroke,stroke,cprd_cref,17326,"Subarachnoid haemorrh from intracranial artery, unspecif"
+cvd,Stroke,stroke,cprd_cref,1786,Subarachnoid haemorrhage
+cvd,Stroke,stroke,cprd_cref,18604,Stroke due to intracerebral haemorrhage
+cvd,Stroke,stroke,cprd_cref,18689,Middle cerebral artery syndrome
+cvd,Stroke,stroke,cprd_cref,18912,Subdural haemorrhage NOS
+cvd,Stroke,stroke,cprd_cref,1895,Transient cerebral ischaemia NOS
+cvd,Stroke,stroke,cprd_cref,19201,"Right sided intracerebral haemorrhage, unspecified"
+cvd,Stroke,stroke,cprd_cref,19260,Posterior cerebral artery syndrome
+cvd,Stroke,stroke,cprd_cref,19280,Anterior cerebral artery syndrome
+cvd,Stroke,stroke,cprd_cref,19348,[V]Personal history of stroke
+cvd,Stroke,stroke,cprd_cref,19354,Other transient cerebral ischaemia
+cvd,Stroke,stroke,cprd_cref,19412,Subarachnoid haemorrhage from middle cerebral artery
+cvd,Stroke,stroke,cprd_cref,20284,Intracranial haemorrhage NOS
+cvd,Stroke,stroke,cprd_cref,23361,Late effects of cerebrovascular disease
+cvd,Stroke,stroke,cprd_cref,23580,Subarachnoid haemorrhage NOS
+cvd,Stroke,stroke,cprd_cref,23671,Cerebral infarct due to thrombosis of precerebral arteries
+cvd,Stroke,stroke,cprd_cref,2418,Cerebrovascular disease
+cvd,Stroke,stroke,cprd_cref,24446,Cerebral infarction due to embolism of precerebral arteries
+cvd,Stroke,stroke,cprd_cref,25615,Brainstem infarction
+cvd,Stroke,stroke,cprd_cref,26424,Infarction of basal ganglia
+cvd,Stroke,stroke,cprd_cref,27975,Cerebral infarction due to embolism of cerebral arteries
+cvd,Stroke,stroke,cprd_cref,28314,"Left sided intracerebral haemorrhage, unspecified"
+cvd,Stroke,stroke,cprd_cref,29939,Ruptured berry aneurysm
+cvd,Stroke,stroke,cprd_cref,30045,External capsule haemorrhage
+cvd,Stroke,stroke,cprd_cref,30202,"Intracerebral haemorrhage, intraventricular"
+cvd,Stroke,stroke,cprd_cref,31060,"Intracerebral haemorrhage in hemisphere, unspecified"
+cvd,Stroke,stroke,cprd_cref,3149,Cerebral infarction NOS
+cvd,Stroke,stroke,cprd_cref,31595,Cortical haemorrhage
+cvd,Stroke,stroke,cprd_cref,31704,Occlusion/stenosis cerebral arts not result cerebral infarct
+cvd,Stroke,stroke,cprd_cref,31805,Other and unspecified intracranial haemorrhage
+cvd,Stroke,stroke,cprd_cref,32310,Moyamoya disease
+cvd,Stroke,stroke,cprd_cref,32447,Basilar artery occlusion
+cvd,Stroke,stroke,cprd_cref,33499,Pure motor lacunar syndrome
+cvd,Stroke,stroke,cprd_cref,33543,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+cvd,Stroke,stroke,cprd_cref,34117,Other cerebrovascular disease OS
+cvd,Stroke,stroke,cprd_cref,34135,H/O: CVA/stroke
+cvd,Stroke,stroke,cprd_cref,34758,Cerebral embolus
+cvd,Stroke,stroke,cprd_cref,3535,Intracerebral haemorrhage NOS
+cvd,Stroke,stroke,cprd_cref,36178,Extradural haemorrhage - nontraumatic
+cvd,Stroke,stroke,cprd_cref,36717,Cerebral infarction due to thrombosis of cerebral arteries
+cvd,Stroke,stroke,cprd_cref,37493,Other cerebrovascular disease NOS
+cvd,Stroke,stroke,cprd_cref,39344,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
+cvd,Stroke,stroke,cprd_cref,39403,Sequelae of cerebral infarction
+cvd,Stroke,stroke,cprd_cref,40338,Internal capsule haemorrhage
+cvd,Stroke,stroke,cprd_cref,40758,Cereb infarct due unsp occlus/stenos precerebr arteries
+cvd,Stroke,stroke,cprd_cref,40847,Vertebral artery occlusion
+cvd,Stroke,stroke,cprd_cref,4152,"Thrombosis, carotid artery"
+cvd,Stroke,stroke,cprd_cref,41910,Subarachnoid haemorrhage from basilar artery
+cvd,Stroke,stroke,cprd_cref,42331,Subarachnoid haemorrhage from anterior communicating artery
+cvd,Stroke,stroke,cprd_cref,4240,Carotid artery occlusion
+cvd,Stroke,stroke,cprd_cref,4273,Subdural haemorrhage - nontraumatic
+cvd,Stroke,stroke,cprd_cref,43451,Sequelae of other nontraumatic intracranial haemorrhage
+cvd,Stroke,stroke,cprd_cref,44740,Sequelae of subarachnoid haemorrhage
+cvd,Stroke,stroke,cprd_cref,44765,Carotid artery syndrome hemispheric
+cvd,Stroke,stroke,cprd_cref,45781,Precerebral arterial occlusion
+cvd,Stroke,stroke,cprd_cref,46316,Basal nucleus haemorrhage
+cvd,Stroke,stroke,cprd_cref,47607,CVA - cerebrovascular accident in the puerperium
+cvd,Stroke,stroke,cprd_cref,47642,Wallenberg syndrome
+cvd,Stroke,stroke,cprd_cref,48149,Sequelae of intracerebral haemorrhage
+cvd,Stroke,stroke,cprd_cref,504,Transient cerebral ischaemia
+cvd,Stroke,stroke,cprd_cref,5051,Intracerebral haemorrhage
+cvd,Stroke,stroke,cprd_cref,50594,Multiple and bilateral precerebral artery syndromes
+cvd,Stroke,stroke,cprd_cref,51138,Sequelae/other + unspecified cerebrovascular diseases
+cvd,Stroke,stroke,cprd_cref,51311,Other specified cerebrovascular disease
+cvd,Stroke,stroke,cprd_cref,51326,Other precerebral artery occlusion
+cvd,Stroke,stroke,cprd_cref,51759,Occlusion and stenosis of middle cerebral artery
+cvd,Stroke,stroke,cprd_cref,51767,Pure sensory lacunar syndrome
+cvd,Stroke,stroke,cprd_cref,5185,Lateral medullary syndrome
+cvd,Stroke,stroke,cprd_cref,5363,CVA - cerebral artery occlusion
+cvd,Stroke,stroke,cprd_cref,53745,[X]Other cerebral infarction
+cvd,Stroke,stroke,cprd_cref,53810,[X]Other intracerebral haemorrhage
+cvd,Stroke,stroke,cprd_cref,55602,Occlusion and stenosis of cerebellar arteries
+cvd,Stroke,stroke,cprd_cref,56007,Subarachnoid haemorrhage from carotid siphon and bifurcation
+cvd,Stroke,stroke,cprd_cref,5602,Cerebellar infarction
+cvd,Stroke,stroke,cprd_cref,56279,Stroke in the puerperium
+cvd,Stroke,stroke,cprd_cref,569,Infarction - cerebral
+cvd,Stroke,stroke,cprd_cref,57315,"Intracerebral haemorrhage, multiple localized"
+cvd,Stroke,stroke,cprd_cref,57495,Infarction - precerebral
+cvd,Stroke,stroke,cprd_cref,57527,Occlusion and stenosis of anterior cerebral artery
+cvd,Stroke,stroke,cprd_cref,5871,H/O: stroke
+cvd,Stroke,stroke,cprd_cref,60692,Subarachnoid haemorrhage from vertebral artery
+cvd,Stroke,stroke,cprd_cref,6116,CVA - Cerebrovascular accident unspecified
+cvd,Stroke,stroke,cprd_cref,6155,Stroke due to cerebral arterial occlusion
+cvd,Stroke,stroke,cprd_cref,6228,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+cvd,Stroke,stroke,cprd_cref,62342,Bulbar haemorrhage
+cvd,Stroke,stroke,cprd_cref,6253,Stroke unspecified
+cvd,Stroke,stroke,cprd_cref,6305,H/O: CVA
+cvd,Stroke,stroke,cprd_cref,63830,Stenosis of precerebral arteries
+cvd,Stroke,stroke,cprd_cref,65745,[X]Other subarachnoid haemorrhage
+cvd,Stroke,stroke,cprd_cref,65770,Occlusion and stenosis of posterior cerebral artery
+cvd,Stroke,stroke,cprd_cref,66873,H/O: Stroke in last year
+cvd,Stroke,stroke,cprd_cref,6960,CVA - cerebrovascular accid due to intracerebral haemorrhage
+cvd,Stroke,stroke,cprd_cref,70536,Acute cerebrovascular insufficiency NOS
+cvd,Stroke,stroke,cprd_cref,71274,Occlusion+stenosis of multiple and bilat cerebral arteries
+cvd,Stroke,stroke,cprd_cref,7138,[V]Personal history of cerebrovascular accident (CVA)
+cvd,Stroke,stroke,cprd_cref,71585,Precerebral artery occlusion NOS
+cvd,Stroke,stroke,cprd_cref,73901,[X]Cerebrovascular diseases
+cvd,Stroke,stroke,cprd_cref,7780,Left sided CVA
+cvd,Stroke,stroke,cprd_cref,7912,Pontine haemorrhage
+cvd,Stroke,stroke,cprd_cref,8443,Brain stem stroke syndrome
+cvd,Stroke,stroke,cprd_cref,8837,Cerebral arterial occlusion
+cvd,Stroke,stroke,cprd_cref,90572,[X]Occlusion and stenosis of other precerebral arteries
+cvd,Stroke,stroke,cprd_cref,91627,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+cvd,Stroke,stroke,cprd_cref,92036,[X]Occlusion and stenosis of other cerebral arteries
+cvd,Stroke,stroke,cprd_cref,94482,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+cvd,Stroke,stroke,cprd_cref,96630,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+cvd,Stroke,stroke,cprd_cref,9696,Subarachnoid haemorrhage from posterior communicating artery
+cvd,Stroke,stroke,cprd_cref,98188,Small vessel cerebrovascular disease
+cvd,Stroke,stroke,cprd_cref,98642,Multiple and bilateral precerebral arterial occlusion
+cvd,Stroke,stroke,cprd_cref,99367,[X]Other cerebrovascular disorders in diseases CE
+cvd,Stroke,stroke,cprd_cref,9943,Cereb autosom dominant arteriop subcort infarcts leukoenceph
+cvd,Stroke,stroke,cprd_cref,9985,Left sided cerebral infarction
+cvd,Stroke,stroke,hes_apc,G45,Transient cerebral ischaemic attacks and related syndromes
+cvd,Stroke,stroke,hes_apc,I60,Subarachnoid haemorrhage
+cvd,Stroke,stroke,hes_apc,I61,Intracerebral haemorrhage
+cvd,Stroke,stroke,hes_apc,I62,Other nontraumatic intracranial haemorrhage
+cvd,Stroke,stroke,hes_apc,I63,Cerebral infarction
+cvd,Stroke,stroke,hes_apc,I64,"Stroke, not specified as haemorrhage or infarction"
+cvd,Stroke,stroke,hes_apc,I67,Other cerebrovascular diseases
+cvd,Stroke,stroke,hes_apc,I68,Cerebrovascular disorders in diseases classified elsewhere
+cvd,Stroke,stroke,hes_apc,I69,Sequelae of cerebrovascular disease
+other,Hypertension ,hbp,cprd_cref,102406,Hypertension 9 month review
+other,Hypertension ,hbp,cprd_cref,102458,[X]Other secondary hypertension
+other,Hypertension ,hbp,cprd_cref,103046,Malignant hypertensive heart disease NOS
+other,Hypertension ,hbp,cprd_cref,105274,Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+other,Hypertension ,hbp,cprd_cref,105316,Stage 1 hypertension
+other,Hypertension ,hbp,cprd_cref,105371,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+other,Hypertension ,hbp,cprd_cref,105480,Hypertension resistant to drug therapy
+other,Hypertension ,hbp,cprd_cref,105487,Severe hypertension
+other,Hypertension ,hbp,cprd_cref,105938,Benign hypertensive heart disease NOS
+other,Hypertension ,hbp,cprd_cref,105989,Severe hypertension (Nat Inst for Health Clinical Ex 2011)
+other,Hypertension ,hbp,cprd_cref,107704,Primary hypertension
+other,Hypertension ,hbp,cprd_cref,108136,Stage 1 hyperten (NICE 2011) without evidnce end organ damge
+other,Hypertension ,hbp,cprd_cref,10818,Essential hypertension NOS
+other,Hypertension ,hbp,cprd_cref,109611,Hypertension self-management plan agreed
+other,Hypertension ,hbp,cprd_cref,109797,Stage 1 hyperten (NICE 2011) with evidnce end organ damge
+other,Hypertension ,hbp,cprd_cref,11056,Patient on maximal tolerated antihypertensive therapy
+other,Hypertension ,hbp,cprd_cref,110631,Hypertension self-management plan review
+other,Hypertension ,hbp,cprd_cref,12680,Hypertension clinical management plan
+other,Hypertension ,hbp,cprd_cref,12948,Hypertension treatm.stopped
+other,Hypertension ,hbp,cprd_cref,13188,Hypertensive treatm.changed
+other,Hypertension ,hbp,cprd_cref,15106,Hypertensive renal disease NOS
+other,Hypertension ,hbp,cprd_cref,15377,Malignant essential hypertension
+other,Hypertension ,hbp,cprd_cref,16059,Secondary hypertension NOS
+other,Hypertension ,hbp,cprd_cref,16173,Hypertensive heart disease NOS
+other,Hypertension ,hbp,cprd_cref,16292,Hypertensive heart disease
+other,Hypertension ,hbp,cprd_cref,16565,Good hypertension control
+other,Hypertension ,hbp,cprd_cref,18057,Antihypertensive therapy
+other,Hypertension ,hbp,cprd_cref,18482,Hypertension six month review
+other,Hypertension ,hbp,cprd_cref,18590,Moderate hypertension control
+other,Hypertension ,hbp,cprd_cref,18765,Other specified hypertensive disease
+other,Hypertension ,hbp,cprd_cref,1894,Benign essential hypertension
+other,Hypertension ,hbp,cprd_cref,19070,Hypertension annual review
+other,Hypertension ,hbp,cprd_cref,204,Hypertensive disease
+other,Hypertension ,hbp,cprd_cref,21826,Hypertension treatm. started
+other,Hypertension ,hbp,cprd_cref,21837,Hypertensive heart&renal dis wth (congestive) heart failure
+other,Hypertension ,hbp,cprd_cref,22333,Hypertension treatment refused
+other,Hypertension ,hbp,cprd_cref,25371,Secondary benign renovascular hypertension
+other,Hypertension ,hbp,cprd_cref,2666,H/O: hypertension
+other,Hypertension ,hbp,cprd_cref,27511,Poor hypertension control
+other,Hypertension ,hbp,cprd_cref,28684,Hypertensive heart and renal disease with renal failure
+other,Hypertension ,hbp,cprd_cref,29310,Renal hypertension
+other,Hypertension ,hbp,cprd_cref,30776,Hypertension:follow-up default
+other,Hypertension ,hbp,cprd_cref,31387,Secondary renovascular hypertension NOS
+other,Hypertension ,hbp,cprd_cref,31464,Hypertensive heart disease NOS
+other,Hypertension ,hbp,cprd_cref,31755,Secondary malignant hypertension
+other,Hypertension ,hbp,cprd_cref,32423,Hypertensive renal disease with renal failure
+other,Hypertension ,hbp,cprd_cref,34065,Secondary pulmonary hypertension
+other,Hypertension ,hbp,cprd_cref,3425,On treatment for hypertension
+other,Hypertension ,hbp,cprd_cref,34744,Hypertension secondary to endocrine disorders
+other,Hypertension ,hbp,cprd_cref,351,High blood pressure
+other,Hypertension ,hbp,cprd_cref,3712,Hypertension NOS
+other,Hypertension ,hbp,cprd_cref,39649,Malignant hypertensive renal disease
+other,Hypertension ,hbp,cprd_cref,42229,Secondary hypertension NOS
+other,Hypertension ,hbp,cprd_cref,4372,Systolic hypertension
+other,Hypertension ,hbp,cprd_cref,43935,Benign hypertensive renal disease
+other,Hypertension ,hbp,cprd_cref,4668,Hypertensive renal disease
+other,Hypertension ,hbp,cprd_cref,50157,Malignant hypertensive heart disease
+other,Hypertension ,hbp,cprd_cref,51635,Secondary benign hypertension NOS
+other,Hypertension ,hbp,cprd_cref,52127,Benign hypertensive heart disease with CCF
+other,Hypertension ,hbp,cprd_cref,52427,Benign hypertensive heart disease
+other,Hypertension ,hbp,cprd_cref,5513,Referral to hypertension clinic
+other,Hypertension ,hbp,cprd_cref,57288,Secondary benign hypertension
+other,Hypertension ,hbp,cprd_cref,57987,Hyperten heart&renal dis+both(congestv)heart and renal fail
+other,Hypertension ,hbp,cprd_cref,59383,Secondary malignant renovascular hypertension
+other,Hypertension ,hbp,cprd_cref,61166,Hypertensive heart disease NOS without CCF
+other,Hypertension ,hbp,cprd_cref,61660,Benign hypertensive heart disease without CCF
+other,Hypertension ,hbp,cprd_cref,62718,Hypertensive heart disease NOS with CCF
+other,Hypertension ,hbp,cprd_cref,63000,Benign hypertensive heart and renal disease
+other,Hypertension ,hbp,cprd_cref,63466,Hypertensive heart and renal disease
+other,Hypertension ,hbp,cprd_cref,67232,Malignant hypertensive heart and renal disease
+other,Hypertension ,hbp,cprd_cref,68659,Hypertensive heart and renal disease NOS
+other,Hypertension ,hbp,cprd_cref,69753,[X]Hypertensive diseases
+other,Hypertension ,hbp,cprd_cref,7057,Hypertensive disease NOS
+other,Hypertension ,hbp,cprd_cref,72668,Malignant hypertensive heart disease with CCF
+other,Hypertension ,hbp,cprd_cref,7329,Secondary hypertension
+other,Hypertension ,hbp,cprd_cref,73293,Secondary malignant hypertension NOS
+other,Hypertension ,hbp,cprd_cref,799,Essential hypertension
+other,Hypertension ,hbp,cprd_cref,83473,Diastolic hypertension
+other,Hypertension ,hbp,cprd_cref,8732,BP - hypertensive disease
+other,Hypertension ,hbp,cprd_cref,8857,Cardiomegaly - hypertensive
+other,Hypertension ,hbp,cprd_cref,95334,Malignant hypertensive heart disease without CCF
+other,Hypertension ,hbp,cprd_cref,95359,Trial withdrawal of antihypertensive therapy
+other,Hypertension ,hbp,cprd_cref,97533,[X]Hypertension secondary to other renal disorders
+other,Hypertension ,hbp,cprd_cref,98230,Lifestyle advice regarding hypertension
+other,Hypertension ,hbp,cprd_cref,99259,Trial reduction of antihypertensive therapy
+other,Hypertension ,hbp,hes_apc,I10,Essential (primary) hypertension
+other,Hypertension ,hbp,hes_apc,I11,Hypertensive heart disease
+other,Hypertension ,hbp,hes_apc,I12,Hypertensive renal disease
+other,Hypertension ,hbp,hes_apc,I13,Hypertensive heart and renal disease
+other,Hypertension ,hbp,hes_apc,I15,Secondary hypertension
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,11551,Diabetes mellitus induced by steroids
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,22487,Secondary diabetes mellitus
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,26108,Steroid induced diabetes mellitus without complication
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,32193,Steroid induced diabetes
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,51697,Secondary pancreatic diabetes mellitus
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,61122,Diabetes mellitus induced by non-steroid drugs
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,67212,DM induced by non-steroid drugs without complication
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,93380,Cystic fibrosis related diabetes mellitus
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,94383,Secondary diabetes mellitus without complication
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,95539,Maternally inherited diabetes mellitus
+t2dm,diabetes 2nd ,diab_sec,cprd_cref,96506,Secondary pancreatic diabetes mellitus without complication
+t2dm,diabetes 2nd ,diab_sec,hes_apc,E08,Diabetes mellitus due to underlying condition
+t2dm,diabetes 2nd ,diab_sec,hes_apc,E09,Drug or chemical induced diabetes mellitus
+t2dm,diabetes 2nd ,diab_sec,hes_apc,E13,Other specified diabetes mellitus
+t2dm,gestational diabetes,gesdm,cprd_cref,102435,Gestational diabetes information leaflet given
+t2dm,gestational diabetes,gesdm,cprd_cref,104588,Gestational diabetes mellitus annual review
+t2dm,gestational diabetes,gesdm,cprd_cref,108013,Dietary advice for gestational diabetes
+t2dm,gestational diabetes,gesdm,cprd_cref,2664,Gestational diabetes mellitus
+t2dm,gestational diabetes,gesdm,cprd_cref,30970,Syndrome of infant of mother with gestational diabetes
+t2dm,gestational diabetes,gesdm,cprd_cref,8446,Gestational diabetes mellitus
+t2dm,gestational diabetes,gesdm,hes_apc,O24.4,Diabetes mellitus arising in pregnancy
+t2dm,type 1 diabetes,t1dm,cprd_cref,100770,Insulin dependent diabetes mellitus with diabetic cataract
+t2dm,type 1 diabetes,t1dm,cprd_cref,101311,Insulin dependent diabetes mellitus with polyneuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,101735,Insulin-dependent diabetes mellitus with neurological comps
+t2dm,type 1 diabetes,t1dm,cprd_cref,102112,Type I diabetes mellitus with gangrene
+t2dm,type 1 diabetes,t1dm,cprd_cref,102163,Insulin dependent diabetes mellitus with nephropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,102620,Type I diabetes mellitus with persistent microalbuminuria
+t2dm,type 1 diabetes,t1dm,cprd_cref,102704,Type I diabetic dietary review
+t2dm,type 1 diabetes,t1dm,cprd_cref,102740,Type 1 diabetes mellitus with ophthalmic complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,102946,Insulin-dependent diabetes mellitus with renal complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,1038,Insulin dependent diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,10418,Type 1 diabetes mellitus with nephropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,104453,Type 1 diabetic dietary review
+t2dm,type 1 diabetes,t1dm,cprd_cref,105337,Type I diabetes mellitus - poor control
+t2dm,type 1 diabetes,t1dm,cprd_cref,10692,Type 1 diabetes mellitus with ketoacidosis
+t2dm,type 1 diabetes,t1dm,cprd_cref,108007,Type I diabetes mellitus with multiple complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,108360,Type I diabetes mellitus in remission
+t2dm,type 1 diabetes,t1dm,cprd_cref,108724,Type I diabetes mellitus with gastroparesis
+t2dm,type 1 diabetes,t1dm,cprd_cref,109051,Insulin dependent diabetes mellitus with gangrene
+t2dm,type 1 diabetes,t1dm,cprd_cref,12455,Type I diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,1549,Type 1 diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,1647,Insulin dependent diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,17545,Type I diabetes mellitus with diabetic cataract
+t2dm,type 1 diabetes,t1dm,cprd_cref,17858,Type 1 diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,18230,Type 1 diabetes mellitus with neuropathic arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,18387,Type 1 diabetes mellitus with retinopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,18505,IDDM-Insulin dependent diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,18642,Type 1 diabetes mellitus with arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,18683,Type 1 diabetes mellitus with ulcer
+t2dm,type 1 diabetes,t1dm,cprd_cref,21983,Type 1 diabetes mellitus with renal complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,22871,Type 1 diabetes mellitus with exudative maculopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,24423,Type I diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,24490,"Diabetes mellitus, juvenile type, no mention of complication"
+t2dm,type 1 diabetes,t1dm,cprd_cref,24694,Insulin dependent diabetes mellitus with mononeuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,26855,Unstable insulin dependent diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,30294,Type 1 diabetes mellitus with persistent microalbuminuria
+t2dm,type 1 diabetes,t1dm,cprd_cref,30323,Type 1 diabetes mellitus with persistent proteinuria
+t2dm,type 1 diabetes,t1dm,cprd_cref,31310,Insulin dependent diabetes maturity onset
+t2dm,type 1 diabetes,t1dm,cprd_cref,32359,Perceived control of insulin-dependent diabetes
+t2dm,type 1 diabetes,t1dm,cprd_cref,35288,Type 1 diabetes mellitus - poor control
+t2dm,type 1 diabetes,t1dm,cprd_cref,38161,Type I diabetes mellitus with retinopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,39070,Type 1 diabetes mellitus with hypoglycaemic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,39809,Insulin dependent diab mell with neuropathic arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,40023,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+t2dm,type 1 diabetes,t1dm,cprd_cref,40682,Type 1 diabetes mellitus maturity onset
+t2dm,type 1 diabetes,t1dm,cprd_cref,40837,Type 1 diabetes mellitus with ketoacidotic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,41049,Type 1 diabetes mellitus with retinopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,41716,Insulin dependent diabetes mellitus with polyneuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,42729,Type I diabetes mellitus with hypoglycaemic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,42831,Type 1 diabetes mellitus with neurological complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,43921,Unstable type 1 diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,44260,Insulin dependent diabetes mellitus with diabetic cataract
+t2dm,type 1 diabetes,t1dm,cprd_cref,44440,Insulin dependent diabetes mellitus with hypoglycaemic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,44443,Insulin dependent diabetes mellitus with ulcer
+t2dm,type 1 diabetes,t1dm,cprd_cref,45276,Insulin dependent diabetes mellitus with multiple complicat
+t2dm,type 1 diabetes,t1dm,cprd_cref,45914,Type 1 diabetes mellitus - poor control
+t2dm,type 1 diabetes,t1dm,cprd_cref,46301,Type 1 diabetes mellitus with polyneuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,46850,Type I diabetes mellitus - poor control
+t2dm,type 1 diabetes,t1dm,cprd_cref,46963,Insulin-dependent diabetes mellitus with renal complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,47582,Type 1 diabetes mellitus with renal complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,47649,Type 1 diabetes mellitus with ophthalmic complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,47650,Type 1 diabetes mellitus with multiple complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,49146,Type I diabetes mellitus with neurological complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,49276,Insulin-dependent diabetes mellitus with ophthalmic comps
+t2dm,type 1 diabetes,t1dm,cprd_cref,49554,Type 1 diabetes mellitus with diabetic cataract
+t2dm,type 1 diabetes,t1dm,cprd_cref,49949,Unstable type I diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,50960,"Pre-existing diabetes mellitus, insulin-dependent"
+t2dm,type 1 diabetes,t1dm,cprd_cref,51261,Insulin dependent diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,51957,Type I diabetes mellitus with ulcer
+t2dm,type 1 diabetes,t1dm,cprd_cref,52104,Insulin dependent diabetes mellitus with multiple complicatn
+t2dm,type 1 diabetes,t1dm,cprd_cref,52283,Insulin-dependent diabetes mellitus with neurological comps
+t2dm,type 1 diabetes,t1dm,cprd_cref,53200,"Diabetes mellitus, juvenile type, with ketoacidosis"
+t2dm,type 1 diabetes,t1dm,cprd_cref,54008,Type 1 diabetes mellitus with neuropathic arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,54600,Unstable insulin dependent diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,55239,Type 1 diabetes mellitus with gastroparesis
+t2dm,type 1 diabetes,t1dm,cprd_cref,56448,Insulin-dependent diabetes without complication
+t2dm,type 1 diabetes,t1dm,cprd_cref,57621,Insulin dependent diabetes mellitus with nephropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,60107,Unstable type I diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,60208,Type I diabetes mellitus with neuropathic arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,60499,Insulin dependent diabetes mellitus with gangrene
+t2dm,type 1 diabetes,t1dm,cprd_cref,61344,Type I diabetes mellitus with renal complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,61829,Type 1 diabetes mellitus with neurological complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,62209,Type I diabetes mellitus with ketoacidosis
+t2dm,type 1 diabetes,t1dm,cprd_cref,62352,Type I diabetes mellitus with arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,62613,Type I diabetes mellitus without complication
+t2dm,type 1 diabetes,t1dm,cprd_cref,63017,Type I diabetes mellitus maturity onset
+t2dm,type 1 diabetes,t1dm,cprd_cref,64446,Insulin dependent diab mell with peripheral angiopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,6509,Insulin dependent diabetes mellitus with retinopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,65616,Insulin dependent diabetes mellitus with arthropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,66145,Type I diabetes mellitus with ketoacidotic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,66872,Type I diabetes mellitus with nephropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,67853,"Diabetes mellitus, juvenile, + neurological manifestation"
+t2dm,type 1 diabetes,t1dm,cprd_cref,6791,Insulin dependent diabetes mellitus - poor control
+t2dm,type 1 diabetes,t1dm,cprd_cref,68105,Type 1 diabetes mellitus with mononeuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,68390,Type 1 diabetes mellitus with ulcer
+t2dm,type 1 diabetes,t1dm,cprd_cref,68792,"Diabetes mellitus, juvenile type, + unspecified complication"
+t2dm,type 1 diabetes,t1dm,cprd_cref,69043,Dietary advice for type I diabetes
+t2dm,type 1 diabetes,t1dm,cprd_cref,69124,IDDM with peripheral circulatory disorder
+t2dm,type 1 diabetes,t1dm,cprd_cref,69676,Type 1 diabetes mellitus without complication
+t2dm,type 1 diabetes,t1dm,cprd_cref,69748,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+t2dm,type 1 diabetes,t1dm,cprd_cref,69993,Type 1 diabetes mellitus with gangrene
+t2dm,type 1 diabetes,t1dm,cprd_cref,70448,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+t2dm,type 1 diabetes,t1dm,cprd_cref,70766,Type 1 diabetes mellitus with hypoglycaemic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,72702,Insulin dependent diabetes mellitus - poor control
+t2dm,type 1 diabetes,t1dm,cprd_cref,85660,Diabetes type 1 review
+t2dm,type 1 diabetes,t1dm,cprd_cref,91942,Type I diabetes mellitus with multiple complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,91943,Type I diabetes mellitus with polyneuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,93390,Attended DAFNE diabetes structured education programme
+t2dm,type 1 diabetes,t1dm,cprd_cref,93468,Type 1 diabetes mellitus with peripheral angiopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,93491,DAFNE diabetes structured education programme completed
+t2dm,type 1 diabetes,t1dm,cprd_cref,93704,Referral to DAFNE diabetes structured education programme
+t2dm,type 1 diabetes,t1dm,cprd_cref,93875,Insulin dependent diabetes mellitus with retinopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,93878,Type I diabetes mellitus with ulcer
+t2dm,type 1 diabetes,t1dm,cprd_cref,93922,"Diabetes mellitus, juvenile type, with renal manifestation"
+t2dm,type 1 diabetes,t1dm,cprd_cref,95343,Type I diabetes mellitus with retinopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,95992,Type I diabetes mellitus without complication
+t2dm,type 1 diabetes,t1dm,cprd_cref,96235,Type I diabetes mellitus maturity onset
+t2dm,type 1 diabetes,t1dm,cprd_cref,97446,Type 1 diabetes mellitus maturity onset
+t2dm,type 1 diabetes,t1dm,cprd_cref,97474,Unstable type 1 diabetes mellitus
+t2dm,type 1 diabetes,t1dm,cprd_cref,97809,Did not complete DAFNE diabetes structured education program
+t2dm,type 1 diabetes,t1dm,cprd_cref,97849,Insulin dependent diabetes maturity onset
+t2dm,type 1 diabetes,t1dm,cprd_cref,97894,Type I diabetes mellitus with exudative maculopathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,98071,Insulin-dependent diabetes mellitus with ophthalmic comps
+t2dm,type 1 diabetes,t1dm,cprd_cref,98392,Maturity onset diabetes in youth type 1
+t2dm,type 1 diabetes,t1dm,cprd_cref,98704,Insulin dependent diabetes mellitus with ulcer
+t2dm,type 1 diabetes,t1dm,cprd_cref,99231,Type I diabetes mellitus with mononeuropathy
+t2dm,type 1 diabetes,t1dm,cprd_cref,99311,Type I diabetes mellitus with ophthalmic complications
+t2dm,type 1 diabetes,t1dm,cprd_cref,99716,Insulin dependent diabetes mellitus with hypoglycaemic coma
+t2dm,type 1 diabetes,t1dm,cprd_cref,99719,Insulin-dependent diabetes without complication
+t2dm,type 1 diabetes,t1dm,hes_apc,E10,Type 1 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,100964,Type II diabetes mellitus with ophthalmic complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,10098,Other specified diabetes mellitus with other spec comps
+t2dm,type 2 diabetes,t2dm,cprd_cref,10099,Advanced diabetic maculopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,102201,Type II diabetes mellitus with nephropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,103902,Type II diabetes mellitus with arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,104323,Type II diabetes mellitus with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,10642,Dietary advice for diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,10659,Diabetic cataract
+t2dm,type 2 diabetes,t2dm,cprd_cref,10755,Non proliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,10824,Seen in diabetic foot clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,10977,Diabetic peripheral neuropathy screening
+t2dm,type 2 diabetes,t2dm,cprd_cref,11018,Diabetic retinopathy 12 month review
+t2dm,type 2 diabetes,t2dm,cprd_cref,11041,Excepted from diabetes qual indicators: Patient unsuitable
+t2dm,type 2 diabetes,t2dm,cprd_cref,11094,Under care of diabetic foot screener
+t2dm,type 2 diabetes,t2dm,cprd_cref,11129,O/E - left eye background diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,11348,Excepted from diabetes quality indicators: Informed dissent
+t2dm,type 2 diabetes,t2dm,cprd_cref,11433,O/E - right eye background diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,11471,Diabetes medication review
+t2dm,type 2 diabetes,t2dm,cprd_cref,11551,Diabetes mellitus induced by steroids
+t2dm,type 2 diabetes,t2dm,cprd_cref,11599,Pan retinal photocoagulation for diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,11626,Diabetic retinopathy NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,11663,Neuropathic diabetic ulcer - foot
+t2dm,type 2 diabetes,t2dm,cprd_cref,11677,Refer to diabetic foot screener
+t2dm,type 2 diabetes,t2dm,cprd_cref,11848,Renal diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,11930,Under care of diabetes specialist nurse
+t2dm,type 2 diabetes,t2dm,cprd_cref,12030,Diabetes monitoring 3rd letter
+t2dm,type 2 diabetes,t2dm,cprd_cref,12213,Patient on maximal tolerated therapy for diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,12247,Diabetic foot examination not indicated
+t2dm,type 2 diabetes,t2dm,cprd_cref,12262,Diabetic retinopathy screening refused
+t2dm,type 2 diabetes,t2dm,cprd_cref,12307,Diabetes care by hospital only
+t2dm,type 2 diabetes,t2dm,cprd_cref,12483,Advice about blood glucose control
+t2dm,type 2 diabetes,t2dm,cprd_cref,12506,Diabetes: practice programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,12507,Seen by diabetic liaison nurse
+t2dm,type 2 diabetes,t2dm,cprd_cref,12640,Type 2 diabetes mellitus with nephropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,12675,Diabetes: shared care programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,12682,Patient offered diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,12703,Education score - diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,12736,Type 2 diabetes mellitus with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,13057,Health education - diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,13067,Diabetic monitoring NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,13069,Has seen dietician - diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,13070,Initial diabetic assessment
+t2dm,type 2 diabetes,t2dm,cprd_cref,13071,Diabetic - good control
+t2dm,type 2 diabetes,t2dm,cprd_cref,13074,Diabetic diet
+t2dm,type 2 diabetes,t2dm,cprd_cref,13078,Diabetic weight reducing diet
+t2dm,type 2 diabetes,t2dm,cprd_cref,13097,O/E - right eye proliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13099,O/E - right eye preproliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13101,O/E - left eye proliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13102,O/E - right eye diabetic maculopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13103,O/E - left eye preproliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13108,O/E - left eye diabetic maculopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13192,Diabetes monitor. check done
+t2dm,type 2 diabetes,t2dm,cprd_cref,13194,Diabetes monitoring 1st letter
+t2dm,type 2 diabetes,t2dm,cprd_cref,13195,Diabetes monitoring 2nd letter
+t2dm,type 2 diabetes,t2dm,cprd_cref,13196,Fundoscopy - diabetic check
+t2dm,type 2 diabetes,t2dm,cprd_cref,13197,Attends diabetes monitoring
+t2dm,type 2 diabetes,t2dm,cprd_cref,1323,Diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,13279,Other specified diabetes mellitus with renal complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,1407,Insulin treated Type 2 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,14803,"Diabetes mellitus, adult onset, no mention of complication"
+t2dm,type 2 diabetes,t2dm,cprd_cref,14889,Maturity onset diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,15690,Diabetes mellitus with ketoacidotic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,16230,Diabetes mellitus with neurological manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,16490,Diabetic treatment changed
+t2dm,type 2 diabetes,t2dm,cprd_cref,16491,Diabetes mellitus with polyneuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,16502,Diabetes mellitus with renal manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,1682,Diabetes mellitus with ketoacidosis
+t2dm,type 2 diabetes,t2dm,cprd_cref,1684,Diabetic on oral treatment
+t2dm,type 2 diabetes,t2dm,cprd_cref,16881,[V]Dietary counselling in diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,17067,Autonomic neuropathy due to diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,17095,O/E - Right diabetic foot at risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,17236,H/O: insulin therapy
+t2dm,type 2 diabetes,t2dm,cprd_cref,17247,Diabetic mononeuritis NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,17262,Non-insulin-dependent diabetes mellitus with retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,17313,Diabetic iritis
+t2dm,type 2 diabetes,t2dm,cprd_cref,17478,Self monitoring of blood glucose
+t2dm,type 2 diabetes,t2dm,cprd_cref,17817,Subcutaneous injection of insulin
+t2dm,type 2 diabetes,t2dm,cprd_cref,17846,Self monitoring of urine glucose
+t2dm,type 2 diabetes,t2dm,cprd_cref,17859,Type 2 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,17869,Diabetic-uncooperative patient
+t2dm,type 2 diabetes,t2dm,cprd_cref,17886,Diabetic - follow-up default
+t2dm,type 2 diabetes,t2dm,cprd_cref,18056,Foot abnormality - diabetes related
+t2dm,type 2 diabetes,t2dm,cprd_cref,18142,Diabetic cheiroarthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,18143,Type II diabetes mellitus with arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,18167,Annual diabetic blood test
+t2dm,type 2 diabetes,t2dm,cprd_cref,18209,Type 2 diabetes mellitus with renal complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,18219,Type II diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,18264,Insulin treated Type II diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,18278,Insulin treated Type 2 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,18311,Diabetic retinopathy screening
+t2dm,type 2 diabetes,t2dm,cprd_cref,18390,Type 2 diabetes mellitus with persistent microalbuminuria
+t2dm,type 2 diabetes,t2dm,cprd_cref,18425,Type 2 diabetes mellitus with polyneuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,18496,Type 2 diabetes mellitus with retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,18662,Diabetic retinopathy 6 month review
+t2dm,type 2 diabetes,t2dm,cprd_cref,18747,Diabetic retinopathy screening not indicated
+t2dm,type 2 diabetes,t2dm,cprd_cref,18766,Diabetes resolved
+t2dm,type 2 diabetes,t2dm,cprd_cref,18777,Type 2 diabetes mellitus with renal complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,18824,Diabetic foot examination declined
+t2dm,type 2 diabetes,t2dm,cprd_cref,19203,Diabetes mellitus excluded
+t2dm,type 2 diabetes,t2dm,cprd_cref,19381,Referral to diabetic eye clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,19739,Diabetic retinopathy screening offered
+t2dm,type 2 diabetes,t2dm,cprd_cref,20696,Injection sites - diabetic
+t2dm,type 2 diabetes,t2dm,cprd_cref,20900,Diabetes monitored
+t2dm,type 2 diabetes,t2dm,cprd_cref,21482,Diabetes mellitus with hyperosmolar coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,21689,Diabetic lipid lowering diet
+t2dm,type 2 diabetes,t2dm,cprd_cref,22023,Diabetic - poor control NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,22130,Diabetes monitoring default
+t2dm,type 2 diabetes,t2dm,cprd_cref,22487,Secondary diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,22573,Diabetes mellitus NOS with neurological manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,22823,Diabetic foot examination
+t2dm,type 2 diabetes,t2dm,cprd_cref,22884,Type II diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,22967,Retinal abnormality - diabetes related
+t2dm,type 2 diabetes,t2dm,cprd_cref,2340,Diabetic amyotrophy
+t2dm,type 2 diabetes,t2dm,cprd_cref,2342,Diabetic neuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,2378,Diabetic - poor control
+t2dm,type 2 diabetes,t2dm,cprd_cref,2379,Seen in diabetic clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,24327,Ischaemic ulcer diabetic foot
+t2dm,type 2 diabetes,t2dm,cprd_cref,24363,Diabetic stabilisation
+t2dm,type 2 diabetes,t2dm,cprd_cref,24458,Type II diabetes mellitus - poor control
+t2dm,type 2 diabetes,t2dm,cprd_cref,24571,Asymptomatic diabetic neuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,24693,Non-insulin dependent diabetes mellitus with arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,2471,Nephrotic syndrome in diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,2475,Diabetic nephropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,2478,Brittle diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,24836,Type 2 diabetes mellitus with nephropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,25041,Dietary advice for type II diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,25591,Type 2 diabetes mellitus with exudative maculopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,25627,Type 2 diabetes mellitus - poor control
+t2dm,type 2 diabetes,t2dm,cprd_cref,25636,Diabetic diet - poor compliance
+t2dm,type 2 diabetes,t2dm,cprd_cref,26054,Type 2 diabetes mellitus with persistent proteinuria
+t2dm,type 2 diabetes,t2dm,cprd_cref,26603,Refuses diabetes monitoring
+t2dm,type 2 diabetes,t2dm,cprd_cref,26604,Diabetic diet - good compliance
+t2dm,type 2 diabetes,t2dm,cprd_cref,26605,Attended diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,26664,O/E - Left diabetic foot at risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,26666,O/E - Right diabetic foot at low risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,26667,O/E - Left diabetic foot at low risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,27891,Diabetic Charcot arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,27921,Foot abnormality - diabetes related
+t2dm,type 2 diabetes,t2dm,cprd_cref,28574,Exception reporting: diabetes quality indicators
+t2dm,type 2 diabetes,t2dm,cprd_cref,28769,Diabetic on insulin and oral treatment
+t2dm,type 2 diabetes,t2dm,cprd_cref,28856,Transition of diabetes care options discussed
+t2dm,type 2 diabetes,t2dm,cprd_cref,28873,Diabetic 6 month review
+t2dm,type 2 diabetes,t2dm,cprd_cref,29041,Date diabetic treatment start
+t2dm,type 2 diabetes,t2dm,cprd_cref,2986,Preproliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,29979,Non-insulin-dependent diabetes mellitus without complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,30477,High risk proliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,30648,Did not attend diabetic retinopathy clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,31053,[D]Widespread diabetic foot gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,31141,Diabetes monitor.phone invite
+t2dm,type 2 diabetes,t2dm,cprd_cref,31156,O/E - Left diabetic foot at moderate risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,31157,O/E - Right diabetic foot at moderate risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,31171,O/E - Right diabetic foot at high risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,31172,O/E - Left diabetic foot at high risk
+t2dm,type 2 diabetes,t2dm,cprd_cref,31240,Diabetes monitor.verbal invite
+t2dm,type 2 diabetes,t2dm,cprd_cref,31241,Diabetes monitoring admin.NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,31790,Polyneuropathy in diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,32403,Diabetes mellitus with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,32556,Diabetes with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,32619,Patient diabetes education review
+t2dm,type 2 diabetes,t2dm,cprd_cref,32627,Type 2 diabetes mellitus with ketoacidosis
+t2dm,type 2 diabetes,t2dm,cprd_cref,32739,Seen in community diabetes specialist clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,3286,Proliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,33254,Diabetes mellitus with ophthalmic manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,33343,Diabetes mellitus with other specified manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,33807,"Diabetes mellitus, adult with gangrene"
+t2dm,type 2 diabetes,t2dm,cprd_cref,34152,Diabetic peripheral angiopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,34268,Type 2 diabetes mellitus with neurological complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,34283,Diabetes mellitus NOS with ophthalmic manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,34450,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,34528,Diabetes well being questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,34912,Non-insulin dependent diabetes mellitus with ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,35105,"Diabetes mellitus, adult onset, with renal manifestation"
+t2dm,type 2 diabetes,t2dm,cprd_cref,35107,Diabetes mellitus with nephropathy NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,35116,O/E - Left diabetic foot - ulcerated
+t2dm,type 2 diabetes,t2dm,cprd_cref,35316,O/E - Right diabetic foot - ulcerated
+t2dm,type 2 diabetes,t2dm,cprd_cref,35321,Non-urgent diabetic admission
+t2dm,type 2 diabetes,t2dm,cprd_cref,35383,Diabetic patient unsuitable for digital retinal photography
+t2dm,type 2 diabetes,t2dm,cprd_cref,35385,Type 2 diabetes mellitus with neuropathic arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,35399,Diabetes mellitus with peripheral circulatory disorder
+t2dm,type 2 diabetes,t2dm,cprd_cref,3550,Diabetic monitoring
+t2dm,type 2 diabetes,t2dm,cprd_cref,35785,Chronic painful diabetic neuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,36633,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,36798,Continuous subcutaneous infusion of insulin
+t2dm,type 2 diabetes,t2dm,cprd_cref,37315,Diabetic mononeuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,37648,Insulin treated non-insulin dependent diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,37806,Type 2 diabetes mellitus with peripheral angiopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,38076,Insulin lipohypertrophy
+t2dm,type 2 diabetes,t2dm,cprd_cref,38078,Understands diet - diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,38103,Seen in diabetic nurse consultant clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,38129,Seen in community diabetic specialist nurse clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,38130,Diabetes wellbeing questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,3837,Diabetic maculopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,38617,Other specified diabetes mellitus with ketoacidosis
+t2dm,type 2 diabetes,t2dm,cprd_cref,38986,Diabetes mellitus with no mention of complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,39317,"Diabetes mellitus, adult onset, + neurological manifestation"
+t2dm,type 2 diabetes,t2dm,cprd_cref,39420,Myasthenic syndrome due to diabetic amyotrophy
+t2dm,type 2 diabetes,t2dm,cprd_cref,40401,Non-insulin dependent diabetes mellitus with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,40962,Non-insulin dependent d m with neuropathic arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+t2dm,type 2 diabetes,t2dm,cprd_cref,41686,[X]Other specified diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,42217,Self monitoring of blood and urine glucose
+t2dm,type 2 diabetes,t2dm,cprd_cref,42505,Diabetes mellitus NOS with ketoacidosis
+t2dm,type 2 diabetes,t2dm,cprd_cref,42567,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+t2dm,type 2 diabetes,t2dm,cprd_cref,42762,Type 2 diabetes mellitus with retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,43139,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+t2dm,type 2 diabetes,t2dm,cprd_cref,43227,Type II diabetes mellitus with multiple complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,43493,Insulin site lipohypertrophy
+t2dm,type 2 diabetes,t2dm,cprd_cref,43785,Non-insulin dependent diabetes mellitus with hypoglyca coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,43857,Lipoatrophic diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,43951,Diabetic - cooperative patient
+t2dm,type 2 diabetes,t2dm,cprd_cref,44033,Diabetic mononeuritis multiplex
+t2dm,type 2 diabetes,t2dm,cprd_cref,44779,Type 2 diabetes mellitus with diabetic cataract
+t2dm,type 2 diabetes,t2dm,cprd_cref,44982,Type 2 diabetes mellitus with diabetic cataract
+t2dm,type 2 diabetes,t2dm,cprd_cref,4513,Non-insulin dependent diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,45250,Under care of diabetic liaison nurse
+t2dm,type 2 diabetes,t2dm,cprd_cref,45467,Non-insulin dependent diabetes mellitus with polyneuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,45491,Diabetes mellitus with unspecified complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,45499,Kimmelstiel - Wilson disease
+t2dm,type 2 diabetes,t2dm,cprd_cref,45913,Type 2 diabetes mellitus - poor control
+t2dm,type 2 diabetes,t2dm,cprd_cref,45919,Type 2 diabetes mellitus with neurological complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,46150,Type 2 diabetes mellitus with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,46290,Other specified diabetes mellitus with multiple comps
+t2dm,type 2 diabetes,t2dm,cprd_cref,46521,Seen by diabetologist
+t2dm,type 2 diabetes,t2dm,cprd_cref,46533,Diabetic association member
+t2dm,type 2 diabetes,t2dm,cprd_cref,46624,Maturity onset diabetes in youth
+t2dm,type 2 diabetes,t2dm,cprd_cref,46917,Type 2 diabetes mellitus with hypoglycaemic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,47011,Referral to diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,47032,Diabetes care plan agreed
+t2dm,type 2 diabetes,t2dm,cprd_cref,47058,Discharged from care of diabetes specialist nurse
+t2dm,type 2 diabetes,t2dm,cprd_cref,47144,O/E - diabetic maculopathy absent both eyes
+t2dm,type 2 diabetes,t2dm,cprd_cref,47315,Type II diabetes mellitus - poor control
+t2dm,type 2 diabetes,t2dm,cprd_cref,47321,Type 2 diabetes mellitus with ophthalmic complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,47328,O/E - right eye stable treated prolif diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,47341,Diabetic crisis monitoring
+t2dm,type 2 diabetes,t2dm,cprd_cref,47370,Diabetology D.V. done
+t2dm,type 2 diabetes,t2dm,cprd_cref,47377,Other specified diabetes mellitus with ophthalmic complicatn
+t2dm,type 2 diabetes,t2dm,cprd_cref,47409,Type II diabetes mellitus with polyneuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,47584,Advanced diabetic retinal disease
+t2dm,type 2 diabetes,t2dm,cprd_cref,47816,Type II diabetes mellitus with neuropathic arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,47954,Type 2 diabetes mellitus without complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,48078,Acute painful diabetic neuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,48192,Type II diabetes mellitus with diabetic cataract
+t2dm,type 2 diabetes,t2dm,cprd_cref,49074,Type 2 diabetes mellitus with ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,49640,O/E - left chronic diabetic foot ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,49655,Type II diabetes mellitus with retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,49869,Type 2 diabetes mellitus with arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,5002,Diabetic polyneuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,50175,Diabetic foot risk assessment
+t2dm,type 2 diabetes,t2dm,cprd_cref,50225,Type II diabetes mellitus with renal complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,50429,Non-insulin-dependent diabetes mellitus with ophthalm comps
+t2dm,type 2 diabetes,t2dm,cprd_cref,50527,Type II diabetes mellitus with polyneuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,506,Non-insulin dependent diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,50609,"Pre-existing diabetes mellitus, non-insulin-dependent"
+t2dm,type 2 diabetes,t2dm,cprd_cref,50813,Type II diabetes mellitus with mononeuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,50937,Referral to diabetes preconception counselling clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,50972,Diabetes mellitus NOS with no mention of complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,51756,Type 2 diabetes mellitus with ketoacidotic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,52041,O/E - left eye stable treated prolif diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,52212,[X]Diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,52303,Non-insulin-dependent diabetes mellitus with renal comps
+t2dm,type 2 diabetes,t2dm,cprd_cref,52630,O/E - sight threatening diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,53238,Diabetic drug side effects
+t2dm,type 2 diabetes,t2dm,cprd_cref,53392,Type II diabetes mellitus without complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,53634,[D]Gangrene of toe in diabetic
+t2dm,type 2 diabetes,t2dm,cprd_cref,54212,Non-insulin-dependent d m with peripheral angiopath
+t2dm,type 2 diabetes,t2dm,cprd_cref,54601,Under care of diabetologist
+t2dm,type 2 diabetes,t2dm,cprd_cref,54846,Diabetes monitoring deleted
+t2dm,type 2 diabetes,t2dm,cprd_cref,54856,"Diabetes mellitus, adult onset, with ketoacidosis"
+t2dm,type 2 diabetes,t2dm,cprd_cref,54899,Type II diabetes mellitus with peripheral angiopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,55075,Type II diabetes mellitus with ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,55123,Date diabetic treatment stopp.
+t2dm,type 2 diabetes,t2dm,cprd_cref,55140,Self monitoring urine ketones
+t2dm,type 2 diabetes,t2dm,cprd_cref,55431,"Pre-existing diabetes mellitus, unspecified"
+t2dm,type 2 diabetes,t2dm,cprd_cref,55842,Non-insulin-dependent diabetes mellitus with neuro comps
+t2dm,type 2 diabetes,t2dm,cprd_cref,56268,Type II diabetes mellitus with hypoglycaemic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,56803,NIDDM with peripheral circulatory disorder
+t2dm,type 2 diabetes,t2dm,cprd_cref,57278,Type II diabetes mellitus with renal complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,57333,Diabetic cheiropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,57389,Patient consent given for addition to diabetic register
+t2dm,type 2 diabetes,t2dm,cprd_cref,57723,Referral to diabetic register
+t2dm,type 2 diabetes,t2dm,cprd_cref,58133,Discharge by diabetic liaison nurse
+t2dm,type 2 diabetes,t2dm,cprd_cref,58159,Insulin therapy declined
+t2dm,type 2 diabetes,t2dm,cprd_cref,58604,Type II diabetes mellitus with retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,58639,Patient held diabetic record declined
+t2dm,type 2 diabetes,t2dm,cprd_cref,5884,NIDDM - Non-insulin dependent diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,59253,Type 2 diabetes mellitus with arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,59365,Non-insulin dependent diabetes mellitus with nephropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,59725,Type II diabetes mellitus with ophthalmic complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,59903,Diabetic amyotrophy
+t2dm,type 2 diabetes,t2dm,cprd_cref,59991,Maturity onset diabetes in youth type 2
+t2dm,type 2 diabetes,t2dm,cprd_cref,60699,Type 2 diabetes mellitus with peripheral angiopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,60796,Type II diabetes mellitus with persistent proteinuria
+t2dm,type 2 diabetes,t2dm,cprd_cref,608,Follow-up diabetic assessment
+t2dm,type 2 diabetes,t2dm,cprd_cref,61021,Diabetic digital retinopathy screening offered
+t2dm,type 2 diabetes,t2dm,cprd_cref,61071,Type 2 diabetes mellitus with hypoglycaemic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,61210,Adverse reaction to insulins and antidiabetic agents NOS
+t2dm,type 2 diabetes,t2dm,cprd_cref,6125,Diabetic annual review
+t2dm,type 2 diabetes,t2dm,cprd_cref,61470,Diabetic monitoring - higher risk albumin excretion
+t2dm,type 2 diabetes,t2dm,cprd_cref,61670,Diab mellit insulin-glucose infus acute myocardial infarct
+t2dm,type 2 diabetes,t2dm,cprd_cref,62107,Type II diabetes mellitus with gangrene
+t2dm,type 2 diabetes,t2dm,cprd_cref,62146,Non-insulin-dependent diabetes mellitus with multiple comps
+t2dm,type 2 diabetes,t2dm,cprd_cref,62384,O/E - right chronic diabetic foot ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,62674,Type 2 diabetes mellitus with mononeuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,63357,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+t2dm,type 2 diabetes,t2dm,cprd_cref,63371,"Diabetes mellitus, adult, + other specified manifestation"
+t2dm,type 2 diabetes,t2dm,cprd_cref,63412,Diabetes clinical management plan
+t2dm,type 2 diabetes,t2dm,cprd_cref,63690,Type 2 diabetes mellitus with gastroparesis
+t2dm,type 2 diabetes,t2dm,cprd_cref,63762,"Diabetes mellitus, adult onset, + unspecified complication"
+t2dm,type 2 diabetes,t2dm,cprd_cref,64142,Referral for diabetic retinopathy screening
+t2dm,type 2 diabetes,t2dm,cprd_cref,6430,Attending diabetes clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,64357,Diabetes mellitus NOS with unspecified complication
+t2dm,type 2 diabetes,t2dm,cprd_cref,64449,Unspecified diabetes mellitus with multiple complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,64571,Type II diabetes mellitus with nephropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,64668,Insulin treated Type II diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,65025,Diabetes mellitus NOS with peripheral circulatory disorder
+t2dm,type 2 diabetes,t2dm,cprd_cref,65062,Diabetes mellitus NOS with ketoacidotic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,65267,Type 2 diabetes mellitus with multiple complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,65463,High risk non proliferative diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,65684,[X] Adverse reaction to insulins and antidiabetic agents
+t2dm,type 2 diabetes,t2dm,cprd_cref,65704,Type 2 diabetes mellitus with ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,66274,Insulin needles changed for each injection
+t2dm,type 2 diabetes,t2dm,cprd_cref,66475,Diabetic monitoring - lower risk albumin excretion
+t2dm,type 2 diabetes,t2dm,cprd_cref,66965,Type 2 diabetes mellitus with neuropathic arthropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,67664,Education score - diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,67905,Type II diabetes mellitus with neurological complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,6813,H/O: diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,68546,Diabetes clinic satisfaction questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,68818,DTSQ - Diabetes treatment satisfaction questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,68843,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+t2dm,type 2 diabetes,t2dm,cprd_cref,68928,Adverse reaction to insulins and antidiabetic agents
+t2dm,type 2 diabetes,t2dm,cprd_cref,69152,Insulin needles changed less than once a day
+t2dm,type 2 diabetes,t2dm,cprd_cref,69278,Non-insulin depend diabetes mellitus with diabetic cataract
+t2dm,type 2 diabetes,t2dm,cprd_cref,70316,Type 2 diabetes mellitus with ophthalmic complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,7045,H/O: Admission in last year for diabetes foot problem
+t2dm,type 2 diabetes,t2dm,cprd_cref,7059,Admit diabetic emergency
+t2dm,type 2 diabetes,t2dm,cprd_cref,7069,Background diabetic retinopathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,70821,Diabetes mellitus NOS with other specified manifestation
+t2dm,type 2 diabetes,t2dm,cprd_cref,711,Diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,72320,Non-insulin dependent diabetes mellitus with mononeuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,72345,Diabetes mellitus NOS with hyperosmolar coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,7328,Cellulitis in diabetic foot
+t2dm,type 2 diabetes,t2dm,cprd_cref,7563,Diabetic on diet only
+t2dm,type 2 diabetes,t2dm,cprd_cref,758,Type 2 diabetes mellitus
+t2dm,type 2 diabetes,t2dm,cprd_cref,7795,Diabetes mellitus with neuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,83485,Insulin dose changed
+t2dm,type 2 diabetes,t2dm,cprd_cref,83532,Diabetes type 2 review
+t2dm,type 2 diabetes,t2dm,cprd_cref,8403,Non-insulin dependent diabetes mellitus - poor control
+t2dm,type 2 diabetes,t2dm,cprd_cref,8414,Pt advised re diabetic diet
+t2dm,type 2 diabetes,t2dm,cprd_cref,85991,Type II diabetes mellitus with persistent microalbuminuria
+t2dm,type 2 diabetes,t2dm,cprd_cref,8618,Seen by diabetic liaison nurse
+t2dm,type 2 diabetes,t2dm,cprd_cref,8836,Diabetes management plan given
+t2dm,type 2 diabetes,t2dm,cprd_cref,8842,Diabetic on insulin
+t2dm,type 2 diabetes,t2dm,cprd_cref,9013,Unstable diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,90301,Insulin needles changed daily
+t2dm,type 2 diabetes,t2dm,cprd_cref,91164,CSQ - Diabetes clinic satisfaction questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,9145,DNA - Did not attend diabetic clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,91646,Type II diabetes mellitus with ulcer
+t2dm,type 2 diabetes,t2dm,cprd_cref,93529,DESMOND diabetes structured education programme completed
+t2dm,type 2 diabetes,t2dm,cprd_cref,93631,XPERT diabetes structured education programme completed
+t2dm,type 2 diabetes,t2dm,cprd_cref,93657,Referral to DESMOND diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,93727,Type II diabetes mellitus with diabetic cataract
+t2dm,type 2 diabetes,t2dm,cprd_cref,93854,Diabetes structured education programme declined
+t2dm,type 2 diabetes,t2dm,cprd_cref,93870,Referral to XPERT diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,94011,Attended XPERT diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,94186,Diabetes structured education programme completed
+t2dm,type 2 diabetes,t2dm,cprd_cref,94699,Diabetes treatment satisfaction questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,94955,Did not attend XPERT diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,94956,Did not complete XPERT diabetes structured education program
+t2dm,type 2 diabetes,t2dm,cprd_cref,95093,Did not complete DESMOND diabetes structured educat program
+t2dm,type 2 diabetes,t2dm,cprd_cref,95094,Did not complete diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,95159,Did not attend DESMOND diabetes structured education program
+t2dm,type 2 diabetes,t2dm,cprd_cref,95351,Type II diabetes mellitus with mononeuropathy
+t2dm,type 2 diabetes,t2dm,cprd_cref,95553,Did not attend diabetes structured education programme
+t2dm,type 2 diabetes,t2dm,cprd_cref,95813,Seen in multidisciplinary diabetic clinic
+t2dm,type 2 diabetes,t2dm,cprd_cref,95994,Diabetic foot screen
+t2dm,type 2 diabetes,t2dm,cprd_cref,96010,Insulin treatment initiated
+t2dm,type 2 diabetes,t2dm,cprd_cref,97281,Seen by general practitioner special interest in diabetes
+t2dm,type 2 diabetes,t2dm,cprd_cref,97824,DWBQ - Diabetes wellbeing questionnaire
+t2dm,type 2 diabetes,t2dm,cprd_cref,9835,O/E - diabetic maculopathy present both eyes
+t2dm,type 2 diabetes,t2dm,cprd_cref,98616,Type II diabetes mellitus with neurological complications
+t2dm,type 2 diabetes,t2dm,cprd_cref,98723,Type II diabetes mellitus with hypoglycaemic coma
+t2dm,type 2 diabetes,t2dm,cprd_cref,9881,Mixed diabetic ulcer - foot
+t2dm,type 2 diabetes,t2dm,cprd_cref,9897,Diabetes monitoring admin.
+t2dm,type 2 diabetes,t2dm,cprd_cref,9974,Seen in diabetic eye clinic
+t2dm,type 2 diabetes,t2dm,hes_apc,E11,Type 2 diabetes mellitus
